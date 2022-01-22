@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/graph-visualizer/static/css/main.1870c038.chunk.css",
+    "main.js": "/graph-visualizer/static/js/main.7ea3d85c.chunk.js",
+    "main.js.map": "/graph-visualizer/static/js/main.7ea3d85c.chunk.js.map",
+    "runtime-main.js": "/graph-visualizer/static/js/runtime-main.0babf0e0.js",
+    "runtime-main.js.map": "/graph-visualizer/static/js/runtime-main.0babf0e0.js.map",
+    "static/js/2.c3a91c24.chunk.js": "/graph-visualizer/static/js/2.c3a91c24.chunk.js",
+    "static/js/2.c3a91c24.chunk.js.map": "/graph-visualizer/static/js/2.c3a91c24.chunk.js.map",
+    "static/js/3.cd46b407.chunk.js": "/graph-visualizer/static/js/3.cd46b407.chunk.js",
+    "static/js/3.cd46b407.chunk.js.map": "/graph-visualizer/static/js/3.cd46b407.chunk.js.map",
+    "index.html": "/graph-visualizer/index.html",
+    "precache-manifest.7d150598edeb02bdd666b86dcd4c619e.js": "/graph-visualizer/precache-manifest.7d150598edeb02bdd666b86dcd4c619e.js",
+    "service-worker.js": "/graph-visualizer/service-worker.js",
+    "static/css/main.1870c038.chunk.css.map": "/graph-visualizer/static/css/main.1870c038.chunk.css.map",
+    "static/js/2.c3a91c24.chunk.js.LICENSE.txt": "/graph-visualizer/static/js/2.c3a91c24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0babf0e0.js",
+    "static/js/2.c3a91c24.chunk.js",
+    "static/css/main.1870c038.chunk.css",
+    "static/js/main.7ea3d85c.chunk.js"
+  ]
+}
